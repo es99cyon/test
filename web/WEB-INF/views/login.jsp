@@ -24,7 +24,7 @@
 
     <table style="width:50%">
         <tr>
-            <th>ddddddd</th>
+            <th>dddddddddd</th>
             <th>내용</th>
             <th>날짜</th>
             <th>조회수</th>
